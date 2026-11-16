@@ -1,10 +1,10 @@
-# Handoff: Invisible Den private album
+# Handoff: The Invisible Fight Den private album
 
 For the Claude Code session that is signed in to PepUnfiltered (PUF). Read this first.
 
 ## What Jessica wants
 
-A private album inside the Invisible Den that holds every image made for the Den, so she can switch the Den banner or Den picture (icon) whenever she wants. Only Jessica (and staff) should see the album. Members must not see it.
+A private album inside **The Invisible Fight Den** (https://pepunfiltered.com/invisible-fight) that holds every image made for the Den, so she can switch the Den banner or Den picture (icon) whenever she wants. Only Jessica (and staff) should see the album. Members must not see it.
 
 ## What is in this folder
 
@@ -22,12 +22,13 @@ A private album inside the Invisible Den that holds every image made for the Den
 
 ## Build steps
 
-1. Find the Invisible Den category. Ask Jessica if more than one category could match.
-2. Make the private album. Recommended: a staff-only subcategory of the Invisible Den named **Den Album**. Set its security so only staff (or only Jessica's group) can see it, and turn off email and notifications for it. If subcategories don't fit the site setup, ask Jessica before you use something else, such as a private message to herself.
+1. The Den is The Invisible Fight Den at /invisible-fight. Its live banner is A "Reaching for her" and its live Den picture is A "the light in her hands" (set in the earlier session "Build The Invisible Fight Den live", commit fa93efa). Add those two current images to the album too, so nothing she already picked is lost.
+2. Make the private album. Recommended: a staff-only subcategory of The Invisible Fight Den named **Den Album**. Set its security so only staff (or only Jessica's group) can see it, and turn off email and notifications for it. If subcategories don't fit the site setup, ask Jessica before you use something else, such as a private message to herself.
 3. In Den Album, make one topic per group: **Banners**, **Den Icons**, **Cards**, **Original Paintings**. Upload each image with its file name as a caption, and mark the current choices.
-4. Apply the current choices to the Invisible Den category: banner = `Den Banner B Color Paintings.png` (category background image), logo = `Icon 1 Angel Glow.png` (category logo). Description is in the post draft doc.
-5. Make a short pinned note at the top of Den Album that explains how to switch: Den settings › Images › replace the logo or background with any image from this album. Write it in plain words with tap by tap steps for phone use.
-6. Check it at phone width (390px) and on desktop, logged in as Jessica and as a normal member. The member must not see Den Album.
+4. Ask Jessica before you replace the live banner and Den picture. If she says yes, apply: banner = `Den Banner B Color Paintings.png` (category background image), logo = `Icon 1 Angel Glow.png` (category logo). Description is in the post draft doc.
+5. List every uploaded image in topic 579 (the keep list) so the site cleanup does not remove them, like the earlier Den pictures.
+6. Make a short pinned note at the top of Den Album that explains how to switch: Den settings › Images › replace the logo or background with any image from this album. Write it in plain words with tap by tap steps for phone use.
+7. Check it at phone width (344, 375, 390, 402) and the banner crop on phones (the earlier session had to shift the crop so the key figures show). Check on desktop, logged in as Jessica and as a normal member. The member must not see Den Album.
 
 ## Rules
 
